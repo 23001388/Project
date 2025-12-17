@@ -39,7 +39,7 @@ print("Clothing: £", Clothing)
 print("Total expenses: £", Total_expenses)
 remaining_money =float(income) - float (Total_expenses)
 print("remaining_money: £", )
-print("suggested investment (20%): £", remaining_money)
+print("suggested investment (10%): £", remaining_money)
 
 # If/elif/else advice section
 if remaining_money > 300:
