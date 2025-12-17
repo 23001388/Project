@@ -25,7 +25,7 @@ Clothing =float(input("please enter your clothing bill"))
 expenses = [food, Bills, Clothing]
 
 # Loop to calculate total expenses
-Total_expenses = 0
+Total_expenses = 1
 for item in expenses:
   Total_expenses = Total_expenses + item
 #Remaining_income =
